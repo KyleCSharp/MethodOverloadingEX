@@ -1,0 +1,14 @@
+C:\Users\kylel\repos\MethodOverloadingEX\MethodOverloadingEX\bin\Debug\netcoreapp3.1\MethodOverloadingEX.exe
+C:\Users\kylel\repos\MethodOverloadingEX\MethodOverloadingEX\bin\Debug\netcoreapp3.1\MethodOverloadingEX.deps.json
+C:\Users\kylel\repos\MethodOverloadingEX\MethodOverloadingEX\bin\Debug\netcoreapp3.1\MethodOverloadingEX.runtimeconfig.json
+C:\Users\kylel\repos\MethodOverloadingEX\MethodOverloadingEX\bin\Debug\netcoreapp3.1\MethodOverloadingEX.runtimeconfig.dev.json
+C:\Users\kylel\repos\MethodOverloadingEX\MethodOverloadingEX\bin\Debug\netcoreapp3.1\MethodOverloadingEX.dll
+C:\Users\kylel\repos\MethodOverloadingEX\MethodOverloadingEX\bin\Debug\netcoreapp3.1\MethodOverloadingEX.pdb
+C:\Users\kylel\repos\MethodOverloadingEX\MethodOverloadingEX\obj\Debug\netcoreapp3.1\MethodOverloadingEX.csproj.AssemblyReference.cache
+C:\Users\kylel\repos\MethodOverloadingEX\MethodOverloadingEX\obj\Debug\netcoreapp3.1\MethodOverloadingEX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kylel\repos\MethodOverloadingEX\MethodOverloadingEX\obj\Debug\netcoreapp3.1\MethodOverloadingEX.AssemblyInfoInputs.cache
+C:\Users\kylel\repos\MethodOverloadingEX\MethodOverloadingEX\obj\Debug\netcoreapp3.1\MethodOverloadingEX.AssemblyInfo.cs
+C:\Users\kylel\repos\MethodOverloadingEX\MethodOverloadingEX\obj\Debug\netcoreapp3.1\MethodOverloadingEX.csproj.CoreCompileInputs.cache
+C:\Users\kylel\repos\MethodOverloadingEX\MethodOverloadingEX\obj\Debug\netcoreapp3.1\MethodOverloadingEX.dll
+C:\Users\kylel\repos\MethodOverloadingEX\MethodOverloadingEX\obj\Debug\netcoreapp3.1\MethodOverloadingEX.pdb
+C:\Users\kylel\repos\MethodOverloadingEX\MethodOverloadingEX\obj\Debug\netcoreapp3.1\MethodOverloadingEX.genruntimeconfig.cache

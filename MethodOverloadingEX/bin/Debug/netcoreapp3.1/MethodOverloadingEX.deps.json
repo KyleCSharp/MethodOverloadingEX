@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MethodOverloadingEX/1.0.0": {
+        "runtime": {
+          "MethodOverloadingEX.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MethodOverloadingEX/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
